@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    background-color: #2980b9;
+}
+
+.header{
+    background-image: url('assets/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.title-header{
+    font-size: 60px;
+}
+
+.desc-header{
+    font-size: 20px;
+}
+
+.btn-more{
+    background-color: #2980b9;
+    color: #fff;
+}
+
+.img-user{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px #2980b9 solid;
+}
+
+.img-portofolio{
+    border-radius: 10px;
+    box-shadow: #2980b9 15px 15px 5px ;
+}
+
+.text-portofolio{
+    color: #2980b9 ;
+}
+
+.portofolio{
+    background: rgb(230, 230, 230);
+}
+
+.img-team{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+}
